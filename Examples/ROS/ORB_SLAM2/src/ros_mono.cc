@@ -31,6 +31,8 @@
 
 #include"../../../include/System.h"
 
+#include <unistd.h>
+
 using namespace std;
 
 class ImageGrabber
